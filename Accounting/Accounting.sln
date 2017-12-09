@@ -1,8 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.21005.1
-MinimumVisualStudioVersion = 10.0.40219.1
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Accounting", "Accounting\Accounting.vbproj", "{0B0A5D80-7AF5-4CF0-8508-709AAF8E17F0}"
 EndProject
 Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "demo", "..\..\demo\demo.vdproj", "{3509FD24-66F2-4F08-8105-BF201DE7B97A}"
